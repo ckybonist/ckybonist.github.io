@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Chu KuanYu</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Chu KuanYu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 10 Apr 2016 18:51:18 +0000</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Overview of Indoor Space Modeling</title>
+      <link>http://example.org/posts/overview-of-indoor-space-modeling/</link>
+      <pubDate>Sun, 10 Apr 2016 18:51:18 +0000</pubDate>
+      
+      <guid>http://example.org/posts/overview-of-indoor-space-modeling/</guid>
+      <description>Applications:  室內導覽 資訊擷取或推薦: 透過行動裝置APP與商場裡的商店互動。一方面商店可獲得顧客資訊，另一方面蒐集到的資訊可作為日後向推薦之用。 物體監測或管理: 例如生產線上的產品、倉庫裡的存貨或是醫院裡的設備等等都需要被監控，並且能即時偵測出異常以免影響到大眾。 室內空間的社群網路服務  Features of Moving Objects in Indoor Space: TODO
+Key Issues:  Positioning Technologies
+ WLAN (or Wi-Fi) Beacon (Bluetooth low energy) Hybrid: 利用 active RFID tag 主動發送信號，經由 IEEE 802.11 通訊協定，傳送到 Wi-Fi Access Point 關於 GPS, Wi-fi and Beacon 的使用時機可以參考這裡  Modeling Indoor Space
+ Object feature model Geometric model Symbolic model Hybrid model  Queries on Indoor Moving Objects
+ Indoor individual service query  Location depedent query Indoor navigation query Indoor distance-aware query  Indoor public service query  Indoor range monitoring query Indoor join query Indoor trajectory similarity query   Indicies for Indoor Mobile Information System TODO</description>
+    </item>
+    
+  </channel>
+</rss>
