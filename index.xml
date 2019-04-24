@@ -6,10 +6,19 @@
     <description>Recent content on Chu KuanYu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 10 Apr 2016 18:51:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Apr 2016 14:23:35 +0000</lastBuildDate>
     
 	<atom:link href="https://ckybonist.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>資訊科技應用於室內空間</title>
+      <link>https://ckybonist.github.io/posts/indoor-space-application/</link>
+      <pubDate>Mon, 18 Apr 2016 14:23:35 +0000</pubDate>
+      
+      <guid>https://ckybonist.github.io/posts/indoor-space-application/</guid>
+      <description> 目前我找到的應用可分為五大類 旅行  應用情境：機場、火車站等等，例如要如何導引群眾到特定地點 - 特定的登機口、VIP 休息室、行李區。 此應用的需求：  幫助旅行者找到捷徑 提升排隊的管控及縮短等待時間 能快速地掌握人潮流動並且即時偵測事件 最重要是幫助旅行者節省時間並激勵他們消費   零售業  應用情境：購物中心、個人商店或超市，利用室內定位推送商店優惠訊息 此應用的需求：  找到鄰近商店的顧客並引導他們進入店內 推送促銷訊息 幫助顧客在商店(場)找到特定商品 發現顧客行為來輔助 CRM 根據購物清單來做導引   企業內部（適合大公司)  應用情境：公司內的導引可以幫助員工找到同事或是了解哪間會議室現在是空的，對於來訪的客戶可以更輕鬆的找到定點接受服務 此應用的需求：  輕鬆地找到會議室或特定地點 邀請並導引同時到會議室 與同事分享你現在的位置 更有效率的 hot-desking   事件(主題)  應用情境：博物館、展覽館、學術會議等等。即時追蹤使用者路徑周遭的景點推送展覽資訊，或是根據使用者感興趣的東西來做導引 此應用的需求：  協助參觀民眾輕鬆找到必看景點 協助人們對於特定主題的路徑規劃 參觀民眾能互相分享位置資訊 參觀者所到之處能提供周遭景點的資訊   視覺障礙  應用情境: 幫助導引視障民眾到目的地 此應用的需求：  協助視障民眾導覽室內空間 提供周遭的便利設施資訊 讓視障民眾能知道特別服務   參考資料  indoor.rs  </description>
+    </item>
     
     <item>
       <title>Overview of Indoor Space Modeling</title>

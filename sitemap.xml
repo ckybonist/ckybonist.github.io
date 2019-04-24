@@ -4,8 +4,31 @@
   
   <url>
     <loc>https://ckybonist.github.io/</loc>
-    <lastmod>2016-04-10T18:51:18+00:00</lastmod>
+    <lastmod>2016-04-18T14:23:35+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ckybonist.github.io/posts/</loc>
+    <lastmod>2016-04-18T14:23:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ckybonist.github.io/tags/</loc>
+    <lastmod>2016-04-18T14:23:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ckybonist.github.io/tags/%E5%AE%A4%E5%85%A7%E7%A9%BA%E9%96%93/</loc>
+    <lastmod>2016-04-18T14:23:35+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ckybonist.github.io/posts/indoor-space-application/</loc>
+    <lastmod>2016-04-18T14:23:35+00:00</lastmod>
   </url>
   
   <url>
@@ -14,25 +37,7 @@
   </url>
   
   <url>
-    <loc>https://ckybonist.github.io/posts/</loc>
-    <lastmod>2016-04-10T18:51:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ckybonist.github.io/tags/</loc>
-    <lastmod>2016-04-10T18:51:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://ckybonist.github.io/tags/survey/</loc>
-    <lastmod>2016-04-10T18:51:18+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://ckybonist.github.io/tags/%E5%AE%A4%E5%85%A7%E7%A9%BA%E9%96%93/</loc>
     <lastmod>2016-04-10T18:51:18+00:00</lastmod>
     <priority>0</priority>
   </url>
