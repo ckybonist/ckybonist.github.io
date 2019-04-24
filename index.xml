@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chu KuanYu</title>
-    <link>http://example.org/</link>
+    <link>https://ckybonist.github.io/</link>
     <description>Recent content on Chu KuanYu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Sun, 10 Apr 2016 18:51:18 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ckybonist.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Overview of Indoor Space Modeling</title>
-      <link>http://example.org/posts/overview-of-indoor-space-modeling/</link>
+      <link>https://ckybonist.github.io/posts/overview-of-indoor-space-modeling/</link>
       <pubDate>Sun, 10 Apr 2016 18:51:18 +0000</pubDate>
       
-      <guid>http://example.org/posts/overview-of-indoor-space-modeling/</guid>
+      <guid>https://ckybonist.github.io/posts/overview-of-indoor-space-modeling/</guid>
       <description>Applications:  室內導覽 資訊擷取或推薦: 透過行動裝置APP與商場裡的商店互動。一方面商店可獲得顧客資訊，另一方面蒐集到的資訊可作為日後向推薦之用。 物體監測或管理: 例如生產線上的產品、倉庫裡的存貨或是醫院裡的設備等等都需要被監控，並且能即時偵測出異常以免影響到大眾。 室內空間的社群網路服務  Features of Moving Objects in Indoor Space: TODO
 Key Issues:  Positioning Technologies
  WLAN (or Wi-Fi) Beacon (Bluetooth low energy) Hybrid: 利用 active RFID tag 主動發送信號，經由 IEEE 802.11 通訊協定，傳送到 Wi-Fi Access Point 關於 GPS, Wi-fi and Beacon 的使用時機可以參考這裡  Modeling Indoor Space
@@ -26,10 +26,10 @@ Key Issues:  Positioning Technologies
     
     <item>
       <title></title>
-      <link>http://example.org/about/</link>
+      <link>https://ckybonist.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://ckybonist.github.io/about/</guid>
       <description>朱冠瑜 |  article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,summary{display:block}audio,canvas,video{display:inline-block;*display:inline;*zoom:1}audio:not([controls]){display:none}[hidden]{display:none}html{font-size:100%;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%}html,button,input,select,textarea{font-family:sans-serif}body{margin:0}a:focus{outline:thin dotted}a:hover,a:active{outline:0}h1{font-size:2em;margin:0.67em 0}h2{font-size:1.5em;margin:0.83em 0}h3{font-size:1.17em;margin:1em 0}h4{font-size:1em;margin:1.33em 0}h5{font-size:0.83em;margin:1.67em 0}h6{font-size:0.75em;margin:2.33em 0}abbr[title]{border-bottom:1px dotted}b,strong{font-weight:bold}blockquote{margin:1em 40px}dfn{font-style:italic}mark{background:#ff0;color:#000}p,pre{margin:1em 0}pre,code,kbd,samp{font-family:monospace,serif;_font-family:&#39;courier new&#39;,monospace;font-size:1em}pre{white-space:pre;white-space:pre-wrap;word-wrap:break-word}q{quotes:none}q:before,q:after{content:&#39;&#39;;content:none}small{font-size:75%}sub,sup{font-size:75%;line-height:0;position:relative;vertical-align:baseline}sup{top:-0.5em}sub{bottom:-0.25em}dl,menu,ol,ul{margin:1em 0}dd{margin:0 0 0 40px}menu,ol,ul{padding:0 0 0 40px}nav ul,nav ol{list-style:none;list-style-image:none}img{border:0;-ms-interpolation-mode:bicubic}svg:not(:root){overflow:hidden}figure{margin:0}form{margin:0}fieldset{border:1px solid #c0c0c0;margin:0 2px;padding:0.35em 0.625em 0.75em}legend{border:0;padding:0;white-space:normal;*margin-left:-7px}button,input,select,textarea{font-size:100%;margin:0;vertical-align:baseline;*vertical-align:middle}button,input{line-height:normal}button,input[type=&#34;button&#34;],input[type=&#34;reset&#34;],input[type=&#34;submit&#34;]{cursor:pointer;-webkit-appearance:button;*overflow:visible}button[disabled],input[disabled]{cursor:default}input[type=&#34;checkbox&#34;],input[type=&#34;radio&#34;]{box-sizing:border-box;padding:0;*height:13px;*width:13px}input[type=&#34;search&#34;]{-webkit-appearance:textfield;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}input[type=&#34;search&#34;]::-webkit-search-decoration,input[type=&#34;search&#34;]::-webkit-search-cancel-button{-webkit-appearance:none}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}textarea{overflow:auto;vertical-align:top}table{border-collapse:collapse;border-spacing:0}body.pdf{color:#000}body.pdf a{text-decoration:none;color:#000}body.pdf .container{width:1000px;margin:0 auto;padding:0;background:none;border:none;border-width:8px 0 2px 0;text-align:left}body.pdf .resume{position:relative;padding:40px 80px}body.pdf a[href$=&#39;.pdf&#39;]{display:none}body.pdf h1{letter-spacing:0;margin-top:0;font-size:48px;text-transform:uppercase;font-weight:normal}body.pdf h2{letter-spacing:0;text-transform:uppercase;font-style:italic;font-weight:normal}body.pdf h3{float:left;width:16%;font-style:normal}body.pdf h3~p{float:left;margin-left:16%}body.pdf h3+p{margin-left:inherit;float:left;width:84%}body.pdf blockquote{top:40px;right:50px;position:absolute}body.pdf ul li{width:28%;float:left}body.pdf ul dl{margin:0;padding:0.3em 0 0}body.pdf ul dl dt{font-size:122%;font-weight:normal;margin:0 0 0.75em}body.pdf ul dl dd{padding:0 4em 0 0}body.pdf ol{float:left;width:84%;margin:0.7em 0 0}body.pdf ol li{width:33%;margin:0}body.pdf ol li:nth-child(3n){width:34%}body.pdf ol li:nth-child(1),body.</description>
     </item>
     
